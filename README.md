@@ -12,9 +12,10 @@ CSS, Javascript, and more!
 5. Create a new tab and navigate to github.com/syntastical/class-full-stack
 
 # Links
-https://www.python.org/
-https://docs.djangoproject.com/en/3.2/
-https://www.w3schools.com/python/default.asp
+1. https://replit.com/
+1. https://www.python.org/
+1. https://docs.djangoproject.com/en/3.2/
+1. https://www.w3schools.com
 
 # Days
 1. [Day #1: Frontend technologies overview (javascript, css, html)](docs/day1/index.md)
