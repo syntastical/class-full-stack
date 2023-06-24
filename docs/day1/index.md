@@ -29,7 +29,6 @@ myInt = 123
 myBoolean = True
 ```
 
-
 # Creating the base project
 1. To get our base project started, click the `Create Repl`
    ![img.png](img.png)
@@ -77,3 +76,6 @@ myBoolean = True
    ]
    ```
 1. You may need to rerun the project at this point if you don't see the webview update.
+
+# Debugging
+Sometimes it can be helpful 
