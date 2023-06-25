@@ -22,7 +22,6 @@ Create a new file at the path `polls/templates/polls/index.html` with
 {% endif %}
 ```
 
-  
 Update `polls/views.py`, you'll need to rename your current `index` function to `custom` and 
 the other code below. 
 ```python
