@@ -2,7 +2,13 @@
 Hello all!  My name is Sean Rester, and I've been working in various 
 aspects of software for around 20 years. During this week we will be 
 learning about full stack web design using Replit, Python, Django, HTML, 
-CSS, Javascript, and more!  
+CSS, Javascript, and more!
+
+# Rules
+1. You may get up to look at others sites as long as I'm not presenting something.
+2. Negative comments won't be tolerated.
+3. You must be working on your site for the whole class.
+4. No browsing the web or playing games.
 
 # Each day
 1. Login to your computer
